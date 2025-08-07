@@ -1,2 +1,2 @@
-# GOfD-BOT-
+# GOfD-BOT
 GOfD BOT for discord
